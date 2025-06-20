@@ -95,3 +95,5 @@ if TOKEN is None:
     print("BŁĄD: Nie znaleziono tokenu!")
 else:
     bot.run(TOKEN)
+    # Wklej na samym końcu pliku
+# To jest testowa zmiana, aby wymusić aktualizację
